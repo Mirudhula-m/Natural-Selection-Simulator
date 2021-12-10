@@ -1,5 +1,6 @@
 # Natural-Selection-Simulator
 
+Follow this [link](https://github.com/Mirudhula-m/Natural-Selection-Simulator/tree/main) to view this project's github repository.
 
 ## Overview
 
