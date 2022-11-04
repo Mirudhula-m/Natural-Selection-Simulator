@@ -4,7 +4,7 @@ Follow this [link](https://github.com/Mirudhula-m/Natural-Selection-Simulator/tr
 
 ## Overview
 
-We see everyone researchers talking about how a certain trait evolves over time and how certain other populations with undesirable traits gets eliminated. Visualizing such events gives us an idea about what exactly is happening.
+We see researchers talking about how a certain trait evolves over time and how certain other populations with undesirable traits gets eliminated. Visualizing such events gives us an idea about what exactly is happening.
 
 
 In this example demo, we have three different traits that a population could have:
