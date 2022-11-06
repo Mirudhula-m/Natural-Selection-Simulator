@@ -1,7 +1,5 @@
 # Natural-Selection-Simulator
 
-Follow this [link](https://github.com/Mirudhula-m/Natural-Selection-Simulator/tree/main) to view this project's github repository.
-
 ## Overview
 
 We see researchers talking about how a certain trait evolves over time and how certain other populations with undesirable traits gets eliminated. Visualizing such events gives us an idea about what exactly is happening.
